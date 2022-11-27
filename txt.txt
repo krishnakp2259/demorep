@@ -1,2 +1,3 @@
 hello this is first repo
-print("hello world")
+
+helo orld has beeen deleted
